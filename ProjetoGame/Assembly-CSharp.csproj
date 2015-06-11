@@ -46,8 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\CameraController.cs" />
      <Compile Include="Assets\Script\LoadLevel.cs" />
-     <Compile Include="Assets\Script\Principal.cs" />
+     <Compile Include="Assets\Script\PersonagemControle.cs" />
+     <Compile Include="Assets\Script\Time.cs" />
+     <Compile Include="Assets\Script\Usuario.cs" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />

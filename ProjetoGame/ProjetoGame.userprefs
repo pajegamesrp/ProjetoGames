@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Principal.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PersonagemControle.cs">
     <Files>
-      <File FileName="Assets\Script\Principal.cs" Line="42" Column="47" />
-      <File FileName="..\..\..\GameNave\trunk\projetoNave\Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PersonagemControle.cs" Line="28" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
