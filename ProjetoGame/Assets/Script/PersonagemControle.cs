@@ -5,7 +5,7 @@ using System.Collections;
 public class PersonagemControle : MonoBehaviour {
 
 	public float speed;//Variavel determina velocidade doo Player
-	private Rigidbody rb;
+	public Rigidbody rb;
 
 	// Use this for initialization
 	void Start () {
